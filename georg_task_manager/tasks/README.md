@@ -9,11 +9,12 @@ Individual files for seperated gesture calls:
 - offer_hand.py
 - open_hand.py
 - close_hand.py
-- locate_object.py
+- locate_object.py\
+_locate\_object_ requires 3D vector relative to face camera
 
 General file for standard access independent of desired gesture:
 - gesture.py\
-_locate\_object_ requires 3D vector relative to face camera
+Executing the gesture via gestures.py requires the desired gesture (string) additionally
 
 
 #### Detailed description of gesture action functionality
