@@ -18,4 +18,4 @@ Executing the gesture via gestures.py requires the desired gesture (string) addi
 
 
 #### Detailed description of gesture action functionality
-https://github.com/AndiFunk/pib\_modules/blob/main/pib\_gestures\_action/README.md
+https://github.com/AndiFunk/pib_modules/blob/main/pib_gestures_action/README.md
